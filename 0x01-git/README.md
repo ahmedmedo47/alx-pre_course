@@ -1,1 +1,1 @@
-my scond readme
+my scond resdme
